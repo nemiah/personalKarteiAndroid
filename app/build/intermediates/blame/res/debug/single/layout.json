@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/debug/layout/screenbrightness.xml",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/layout/screenbrightness.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/debug/layout/camerasurface.xml",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/layout/camerasurface.xml"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/debug/layout/number_dialogue.xml",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/layout/number_dialogue.xml"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">personalKartei</string>
+
+    <string-array name="Options">
+        <item>Seite aktualisieren</item>
+        <item>URL ändern</item>
+        <item>Ausrichtung</item>
+    </string-array>
+    
+    <string-array name="Orientations">
+        <item>Landschaft</item>
+        <item>Landschaft kopfüber</item>
+        <item>Porträt</item>
+        <item>Porträt kopfüber</item>
+    </string-array>
+    
+    <string name="refreshPage">Seite aktualisieren</string>
+    <string name="changeDeviceMode">Gerätemodus ändern</string>
+    <string name="setURL">URL ändern</string>
+    <string name="orientation">Ausrichtung</string>
+    <string name="screenBrightness">Bildschirm Helligkeit</string>
+    
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="error">Fehler</string>
+    <string name="madUri">Die eingegebene URL ist nicht gültig.</string>
+    <string name="startPlayback">Spiele ab</string>
+    <string name="day">Tag</string>
+    <string name="night">Nacht</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manuell</string>
+    <string name="url">URL:</string>
+    <string name="key">Key:</string>
+
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="camera_enable">Kamera aktiv</string>
+    <string name="camera_disable">Kamera inaktiv</string>
+    <string name="autoerasedialog_title">Todo</string>
+    <string name="dialog_set">Todo</string>
+    <string name="dialog_cancel">Todo</string>
+</resources>

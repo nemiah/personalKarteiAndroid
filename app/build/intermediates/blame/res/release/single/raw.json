@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/release/raw/launcher.svg",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/raw/launcher.svg"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/release/raw/beep.wav",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/raw/beep.wav"
+    },
+    {
+        "merged": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/res/merged/release/raw/generate.sh",
+        "source": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/raw/generate.sh"
+    }
+]

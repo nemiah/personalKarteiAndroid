@@ -1,0 +1,379 @@
+[
+    {
+        "outputFile": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 51,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 37,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 54,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 58,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 55,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 41,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 63,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 35,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 46,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 43,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 39,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 52,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 36,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endColumn": 64,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 41,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 50,
+                    "endOffset": 1178
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1183,
+                    "endColumn": 39,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 33,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 51,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 52,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 62,
+                    "endOffset": 1420
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1425,
+                    "endColumn": 42,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endColumn": 59,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 54,
+                    "endOffset": 1578
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1583,
+                    "endColumn": 36,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endLine": 52,
+                    "endColumn": 8,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "/home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

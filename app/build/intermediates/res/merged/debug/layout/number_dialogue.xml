@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center_horizontal" >
+
+    <RadioGroup
+        android:id="@+id/cameraModeGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_alignParentLeft="true"
+        android:clickable="true"
+        android:layout_alignParentTop="true" >
+        
+        <RadioButton
+            android:id="@+id/cameraEnable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/camera_enable" />
+
+        <RadioButton
+            android:id="@+id/cameraDisable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/camera_disable" />
+        
+
+    </RadioGroup>
+  
+    <TextView
+        android:id="@+id/numberPickerHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/cameraModeGroup"
+        android:layout_marginTop="16dp"
+        android:text="@string/autoerasedialog_title"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    <NumberPicker
+        android:id="@+id/numberPicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/numberPickerHeader"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical" />
+
+    <Button
+        android:id="@+id/btnSet"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/numberPicker"
+        android:layout_toRightOf="@+id/numberPicker"
+        android:text="@string/dialog_set" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnSet"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/btnSet"
+        android:text="@string/dialog_cancel" />
+   
+</RelativeLayout>

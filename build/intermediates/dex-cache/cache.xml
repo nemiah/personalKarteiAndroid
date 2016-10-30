@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3_af74c9aae4c51fda1bc922ba3905167efb698246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/Programme/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3_3bd47f9287dfe8cf0801e02e15ac336fe14f8c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-21.0.3_c58c5fb81809ceb382d41eddcf86f20d8f7d5f4f.jar" />
+    </item>
+
+</items>

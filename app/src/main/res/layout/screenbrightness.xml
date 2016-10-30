@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:orientation="vertical" >
+	
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/day"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+	    <TimePicker
+	        android:id="@+id/dayTime"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" />
+	
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center" >
+	
+	        <ToggleButton
+	            android:id="@+id/dayAuto"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textOff="@string/manual"
+	            android:textOn="@string/auto" />
+	
+	        <SeekBar
+	            android:id="@+id/dayBrightness"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1" />
+	
+	    </LinearLayout>
+	
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/night"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+	    <TimePicker
+	        android:id="@+id/nightTime"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" />
+	
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="center" >
+	
+	        <ToggleButton
+	            android:id="@+id/nightAuto"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textOff="@string/manual"
+	            android:textOn="@string/auto" />
+	
+	        <SeekBar
+	            android:id="@+id/nightBrightness"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1" />
+	
+	    </LinearLayout>
+	</LinearLayout>
+</ScrollView>

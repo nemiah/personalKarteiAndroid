@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:7:5-74
+MERGED from [com.android.support:support-v4:21.0.3] /home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:7:42-71
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:8:5-54
+	android:xlargeScreens
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:8:23-51
+uses-permission#android.permission.INTERNET
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.POWER
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:12:22-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:16:22-78
+application
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:support-v4:21.0.3] /home/nemiah/StudioProjects/personalKarteiAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:18:82-114
+	android:allowBackup
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:18:18-44
+	android:icon
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:18:45-81
+receiver#it.furtmeier.personalKartei.BootReceiver
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:19:6-24:14
+	android:enabled
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:19:16-38
+	android:permission
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:19:95-157
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:19:39-94
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:20:10-23:26
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:21:14-76
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:21:22-73
+category#android.intent.category.DEFAULT
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:22:14-73
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:22:24-70
+receiver#it.furtmeier.personalKartei.CheckRunningReceiver
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:25:9-94
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:25:19-82
+service#it.furtmeier.personalKartei.ForegroundService
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:26:3-74
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:26:12-72
+activity#it.furtmeier.personalKartei.PersonalKartei
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:label
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:27:77-109
+	android:configChanges
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:27:110-218
+	android:alwaysRetainTaskState
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:27:219-255
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:27:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:30:27-74
+activity#it.furtmeier.personalKartei.CameraActivity
+ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:33:9-129
+	android:excludeFromRecents
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:33:49-82
+	android:theme
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:33:83-117
+	android:name
+		ADDED from /home/nemiah/StudioProjects/personalKarteiAndroid/app/src/main/AndroidManifest.xml:33:19-48
